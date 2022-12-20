@@ -1,5 +1,9 @@
 # 42spBasecamp
 
-Listas de exercícios desenvolvidas durante o Basecamp da 42SP, o Processo Seletivo da escola.
+Shell and C projects developed during 42SP admission process (Basecamp).
 
-As listas compreendem os fundamentos de Shell e linguagem C.
+<h3>Shell 00</h3>
+Manipulating files and .tar in shell, commands ls, find, git log, diff.
+
+<h3>Shell 01</h3>
+Commands groups, translate, find, exec, wc, ifconfig, grep, sed, rev, sort, cut, awk
